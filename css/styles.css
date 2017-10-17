@@ -30,3 +30,10 @@
 .btn-success {
   background-color: #003300;
 }
+
+#click-box {
+  border-width: medium;
+  border-color: black;
+  border-style: dashed;
+  background: yellow;
+}
